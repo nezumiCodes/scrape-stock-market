@@ -1,2 +1,1 @@
-# scrape-stock-market
-Python scripts for scraping stock market data
+# Scraping historical daily stock market data
